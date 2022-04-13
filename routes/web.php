@@ -15,7 +15,21 @@ use App\Http\Controllers\CaptchaController;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('todo', [
+        "title" => "To Do Page"
+    ]);
+});
+
+Route::get('/addtask', function () {
+    return view('addtask', [
+        "title" => "Add Task Page"
+    ]);
+});
+
+Route::get('/profile', function () {
+    return view('profile', [
+        "title" => "Profile Page"
+    ]);
 });
 
 Route::get('/login', function () {
