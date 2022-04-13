@@ -60,28 +60,28 @@
                                 <span class="check-label">WhatsApp</span>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="">
+                                <input type="text" class="form-control" placeholder="Channel WhatsApp">
                             </div>
                             <div class="check-terms form-group">
                                 <input type="checkbox" class="checkbox">
                                 <span class="check-label">Telegram</span>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="">
+                                <input type="text" class="form-control" placeholder="Channel Telegram">
                             </div>
                             <div class="check-terms form-group">
                                 <input type="checkbox" class="checkbox">
                                 <span class="check-label">Slack</span>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="">
+                                <input type="text" class="form-control" placeholder="Channel Slack">
                             </div>
                             <div class="check-terms form-group">
                                 <input type="checkbox" class="checkbox">
                                 <span class="check-label">Coster</span>
                             </div>
                             <div class="form-group">
-                                <input type="text" class="form-control" placeholder="">
+                                <input type="text" class="form-control" placeholder="Channel Coster">
                             </div>
                             <div class="check-terms form-group">
                                 <input type="checkbox" class="checkbox">
