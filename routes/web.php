@@ -62,6 +62,7 @@ Route::get('/chat', function () {
     ]);
 });
 
+
 Route::get('/contact-form', [CaptchaController::class, 'index']);
 Route::post('/captcha-validation', [CaptchaController::class, 'capthcaFormValidate']);
 Route::get('/reload-captcha', [CaptchaController::class, 'reloadCaptcha']);
