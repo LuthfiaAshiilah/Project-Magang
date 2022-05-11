@@ -54,6 +54,7 @@
                   </ul>
               </div>
 
+              
               <style type="text/css">
                 .hori-timeline .events {
                     border-top: 3px solid #e9ecef;

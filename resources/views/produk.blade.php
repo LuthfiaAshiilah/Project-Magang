@@ -209,6 +209,7 @@
                       </tr>
                     </tbody>
                   </table>
+                  
         </div>
         <div class="container">
           <p data-placement="top" data-toggle="tooltip" title="New"><button class="btn btn-primary btn-xs" data-title="New" data-toggle="modal" data-target="#new" ><span class="glyphicon glyphicon-pencil"></span>Add a new category</button></p>

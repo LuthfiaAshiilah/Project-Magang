@@ -208,12 +208,9 @@
                     </div>
                     <!-- Row end -->
                 </div>
-
             </div>
-
         </div>
         <!-- Row end -->
-
     </div>
     <!-- Content wrapper end -->
 
