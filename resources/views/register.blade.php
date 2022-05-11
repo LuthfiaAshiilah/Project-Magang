@@ -38,20 +38,20 @@
                             </div><br>
                             <div class="form-group">
                                 <label>Service Group</label>
-                                <select class="form-select text-muted" aria-label="Default select example">
+                                <select class="form-select text-muted" aria-label="Default select example" id = "myAns" onchange = "verifyAnswer()">
                                     <option selected>Service Group</option>
-                                    <option value="1">Shared</option>
-                                    <option value="2">Dedicated</option>
-                                    <option value="3">OnPrem</option>
-                                  </select>
+                                    <option value="shared">Shared</option>
+                                    <option value="dedicated">Dedicated</option>
+                                    <option value="onprem">OnPrem</option>
+                                </select>
                             </div>
                             <div class="form-group">
-                                <label>Service Type</label>
-                                <select class="form-select text-muted" aria-label="Default select example">
-                                    <option selected>Service Type</option>
-                                    <option value="1">FAQ</option>
-                                    <option value="2">Transactional</option>
-                                  </select>
+                                <label>Service Type</label><br>
+                                <div class="text-muted">
+                                    <label> <input type="radio" name="programming" id="faq" value= "faq" style="margin-top: 10px"> FAQ </label>
+                                    <label> <input type="radio" name="programming" id="transactional" value= "transactional" style="margin-left: 20px"> Transactional </label>
+
+                                </div>
                             </div>
                             <p></p>
                             <h5>Channel</h5>
@@ -94,10 +94,12 @@
                             <div class="form-group">
                                 <label>Password</label>
                                 <input type="password" class="form-control" placeholder="Password">
+                                <i class="bi bi-eye-slash" id="togglePassword"></i>
                             </div>
                             <div class="form-group">
                                 <label>Confirm Password</label>
                                 <input type="password" class="form-control" placeholder="Confirm Password">
+                                <i class="bi bi-eye-slash" id="togglePassword"></i>
                             </div>
                             <div class="check-terms">
                                 <input type="checkbox" class="checkbox">

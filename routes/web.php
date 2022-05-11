@@ -15,6 +15,12 @@ use App\Http\Controllers\CaptchaController;
 */
 
 Route::get('/', function () {
+    return view('dashboard', [
+        "title" => "Dashboard Page"
+    ]);
+});
+
+Route::get('/todo', function () {
     return view('todo', [
         "title" => "To Do Page"
     ]);
@@ -41,6 +47,18 @@ Route::get('/login', function () {
 Route::get('/register', function () {
     return view('register', [
         "title" => "Register Page"
+    ]);
+});
+
+Route::get('/produk', function () {
+    return view('produk', [
+        "title" => "Product Page"
+    ]);
+});
+
+Route::get('/chat', function () {
+    return view('chat', [
+        "title" => "Message Page"
     ]);
 });
 

@@ -136,7 +136,7 @@
                           <h6 class="mb-0">Service Group</h6>
                         </div>
                         <div class="col-sm-6 text-secondary">
-                          Shared
+                          Dedicated
                         </div>
                       </div>
                       <hr>                      
