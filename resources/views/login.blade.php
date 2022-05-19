@@ -18,7 +18,7 @@
     </div>
 
  
-    <button class="w-100 btn btn-lg btn-primary mb-2" type="submit">Login</button>
+    <button class="w-100 btn btn-lg btn-primary mb-2" type="submit"><a href="/" class="link-light">Login</a></button>
     <small class="text-muted"> <a href="#">Forgot your password?<br></a></small>
     <small class="text-muted" >Or<br></small>
     <small class="text-muted">Not registered? <a href="/register">Register Now!</a></small>

@@ -118,7 +118,7 @@
                                 <input id="captcha" type="text" class="form-control" placeholder="Enter Captcha" name="captcha">
                             </div>
                             <small class="signin-link">Already have an account? Click here to <a href="/login">Login</a></small>
-                            <button class="btn btn-md btn-primary mb-2" type="submit">Create Account</button>
+                            <button class="btn btn-md btn-primary mb-2" type="submit"><a href="/login" class="link-light">Create Account</a></button>
                         </form>
                     </div>
                 </div>

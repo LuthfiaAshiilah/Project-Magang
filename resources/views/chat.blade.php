@@ -186,7 +186,7 @@
                                             <div class="chat-name">Putri</div>
                                         </div>
                                         <div class="chat-text">Baik, kak.</div>
-                                        <div class="chat-hour">07:00 <span class="fa fa-check-circle"></span></div>
+                                        <div class="chat-hour">09:00 <span class="fa fa-check-circle"></span></div>
                                     </li>
                                 </ul>
                                 <div class="row reply">
@@ -550,13 +550,13 @@ ul {
     padding: 0;
 }
 .card {
-    border: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    text-align: start;
     background: #fafeff;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
-    border-radius: 2px;
-    margin-bottom: 2rem;
-    box-shadow: none;
+
+    margin-bottom: 20px;
 }
 .reply {
   height: 70px;

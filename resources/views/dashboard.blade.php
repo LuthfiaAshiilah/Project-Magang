@@ -54,7 +54,7 @@
                   </ul>
               </div>
 
-              
+
               <style type="text/css">
                 .hori-timeline .events {
                     border-top: 3px solid #e9ecef;
@@ -146,7 +146,7 @@
                       <div class="d-flex flex-row">
                         <img src="https://img.icons8.com/color/100/000000/folder-invoices.png" width="40" />
                         <div class="ml-2">
-                          <h6 class="mb-0">Project PT Tokopedia <a style="margin-left: 230px; margin-right: 20px">1798 MB </a><i class="bi bi-three-dots-vertical"></i> </h6>
+                          <h6 class="mb-0">Project PT Tokopedia <a style="margin-left: 235px; margin-right: 20px">1798 MB </a><i class="bi bi-three-dots-vertical"></i> </h6>
                           <div class="about">
                             <span>182 Files</span>
                             <span style="margin-left: 20px">April 29, 2022</span>
@@ -186,7 +186,7 @@
     
                                     <i class="fa fa-users text-muted "></i> Public <span class="vl ml-1 mr-2 "></span>
     
-                                    <span></span>Updated by <span class="font-weight-bold"> Med.net Team</span> on 31 Apr, 2022
+                                    <span></span>Updated by <span class="font-weight-bold">Med.net Team</span> on 31 Apr, 2022
                                 </p>
                             </h6>
                         </div>
@@ -224,7 +224,7 @@
                                         alt="DP" class="  rounded-circle img-fluid " width="25" height="25">
                                     <img src="https://bootdey.com/img/Content/avatar/avatar4.png"
                                         alt="DP" class="  rounded-circle img-fluid " width="25" height="25">
-                                    <img src="https://www.bootdey.com/app/webroot/img/Content/user_3.jpg"
+                                    <img src="https://i.imgur.com/wvxPV9S.png"
                                         alt="DP" class="  rounded-circle img-fluid " width="25" height="25">
                                 </li>
                                 <li class="list-inline-item"> <img src="https://img.icons8.com/ios/50/000000/plus.png"
@@ -236,7 +236,7 @@
                 </div>
             </div>
             <div class="d-grid gap-2">
-              <button class="btn btn-primary" type="button" style="margin-top: 30px" disabled><a href="#" class="link-light">See Details</a></button>
+              <button class="btn btn-primary" type="button" style="margin-top: 30px"><a href="/perusahaan" class="link-light">See Details</a></button>
             </div> 
     
               </div>
@@ -359,9 +359,8 @@
                 </div>
               </div>
               
-              <div class="row gutters-sm">
                 <div class="col-auto">
-                  <div class="card w-100">
+                  <div class="card mb-4">
                     <div class="card-body">
                       <h5 class="d-flex align-items-center mb-3"><i class="material-icons text-info mr-2">Team</i>Mambers</h5><hr>
                       <div class="row">
@@ -382,19 +381,19 @@
                         </div>
                       </div>   
                       <div class="d-grid gap-2">
-                        <button class="btn btn-primary" type="button" style="margin-top: 30px" disabled><a href="#" class="link-light">See Details</a></button>
+                        <button class="btn btn-primary" type="button" style="margin-top: 30px"><a href="/team" class="link-light">See Details</a></button>
                       </div>                   
                     </div>
                   </div>
                 </div>
               </div>
             </div>              
-          </div>
         
 
           
         </div>
 </div>
+
 
     <script src="js/script.js"></script>
 

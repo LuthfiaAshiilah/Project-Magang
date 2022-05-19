@@ -62,6 +62,18 @@ Route::get('/chat', function () {
     ]);
 });
 
+Route::get('/team', function () {
+    return view('team', [
+        "title" => "Members Page"
+    ]);
+});
+
+Route::get('/perusahaan', function () {
+    return view('perusahaan', [
+        "title" => "Company Page"
+    ]);
+});
+
 
 Route::get('/contact-form', [CaptchaController::class, 'index']);
 Route::post('/captcha-validation', [CaptchaController::class, 'capthcaFormValidate']);
